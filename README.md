@@ -8,6 +8,13 @@ kept in one place: one folder per job, each holding the controller project<br>
 and, where it exists, the list of signals the controller shares with other software.
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/systems-one-dark.png">
+    <img src="docs/assets/systems-one.png" height="52" alt="Systems One">
+  </picture>
+</p>
+
 <p>
 <a href="#documentation">Documentation</a> &middot;
 <a href="#what-the-system-can-do">Projects and capabilities</a> &middot;
